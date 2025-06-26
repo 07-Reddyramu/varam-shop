@@ -5,7 +5,13 @@
   box-sizing: border-box;
 }
 
-/* Page Styling */
+.product-row{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-warp: warp;
+  margin-top: 20px;
+}
 body {
   background-color: skyblue;
   font-family: 'Segoe UI', sans-serif;
